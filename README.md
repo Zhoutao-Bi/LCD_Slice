@@ -1,6 +1,6 @@
 # LumaSlice · LCD 切片工作台
 
-用于 LCD/MSLA 的独立 Windows 桌面切片软件。模型按毫米读取，仅输出逐层 PNG 曝光图与配套任务信息。本软件独立实现，没有使用 PrusaSlicer 源码。
+用于 LCD/MSLA 的独立 Windows 桌面切片软件。模型按毫米读取，仅输出逐层 PNG 曝光图与配套任务信息。
 
 ## 启动
 
